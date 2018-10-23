@@ -1,0 +1,11 @@
+
+-	Experience developing web applications using JavaScript, HTML5, CSS3, Angular, Bootstrap….
+-	High proficiency with client side JavaScript frameworks (Angular JS)
+-	Good English communication skills
+-	Good leadership ability with a passion for finding creative solutions to problems
+-	Experience of working collaboratively and creating a positive team environment
+-	Willingness to learn new technologies both by training and self-learning
+-	Creative approach to problem-solving and be resourceful and tenacious enough to find a solution when nothing seems to work
+-	Experience in NodeJS: Grunt, Bower, Webpack, ES6 or in one unit test frameworks (Jasmine, Mocha) is a huge advantage
+-	Knowledge of Docker and backend programming
+-	Update and keep up with the latest technologies
